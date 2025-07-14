@@ -13,6 +13,9 @@ This project is an AI-powered chatbot that recommends recipes based on user pref
 - **Techniques:** TF-IDF + Cosine Similarity, DistilBERT Embeddings
 - **Interface:** Interactive GUI using Tkinter
 
+<img src="docs/assets/workflow.png" width="400"/>
+
+
 ---
 
 ## Features
