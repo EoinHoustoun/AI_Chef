@@ -1,7 +1,8 @@
 # AI Cooking Assistant Chatbot
 
 This project is an AI-powered chatbot that recommends recipes based on user preferences, combining both keyword-based and semantic search techniques. It was developed to demonstrate the integration of classic TF-IDF models with modern transformer-based models like DistilBERT.
-<img src="docs/assets/AI_CHEF_ROBOT.png" width="800"/>
+
+<img src="docs/assets/AI_CHEF_ROBOT.png" width="400"/>
 
 ---
 
