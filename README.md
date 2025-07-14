@@ -35,5 +35,7 @@ This project is an AI-powered chatbot that recommends recipes based on user pref
 
 ---
 
+<img src="docs/assets/chatterbot.png" width="300"/>
+
 <img src="docs/assets/PCA.png" width="700"/>
 
